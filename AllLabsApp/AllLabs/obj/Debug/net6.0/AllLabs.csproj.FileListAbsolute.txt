@@ -1,0 +1,15 @@
+C:\Users\gigry\Documents\GitHub\MDK\AllLabsApp\AllLabs\obj\Debug\net6.0\AllLabs.csproj.AssemblyReference.cache
+C:\Users\gigry\Documents\GitHub\MDK\AllLabsApp\AllLabs\obj\Debug\net6.0\AllLabs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gigry\Documents\GitHub\MDK\AllLabsApp\AllLabs\obj\Debug\net6.0\AllLabs.AssemblyInfoInputs.cache
+C:\Users\gigry\Documents\GitHub\MDK\AllLabsApp\AllLabs\obj\Debug\net6.0\AllLabs.AssemblyInfo.cs
+C:\Users\gigry\Documents\GitHub\MDK\AllLabsApp\AllLabs\obj\Debug\net6.0\AllLabs.csproj.CoreCompileInputs.cache
+C:\Users\gigry\Documents\GitHub\MDK\AllLabsApp\AllLabs\bin\Debug\net6.0\AllLabs.exe
+C:\Users\gigry\Documents\GitHub\MDK\AllLabsApp\AllLabs\bin\Debug\net6.0\AllLabs.deps.json
+C:\Users\gigry\Documents\GitHub\MDK\AllLabsApp\AllLabs\bin\Debug\net6.0\AllLabs.runtimeconfig.json
+C:\Users\gigry\Documents\GitHub\MDK\AllLabsApp\AllLabs\bin\Debug\net6.0\AllLabs.dll
+C:\Users\gigry\Documents\GitHub\MDK\AllLabsApp\AllLabs\bin\Debug\net6.0\AllLabs.pdb
+C:\Users\gigry\Documents\GitHub\MDK\AllLabsApp\AllLabs\obj\Debug\net6.0\AllLabs.dll
+C:\Users\gigry\Documents\GitHub\MDK\AllLabsApp\AllLabs\obj\Debug\net6.0\refint\AllLabs.dll
+C:\Users\gigry\Documents\GitHub\MDK\AllLabsApp\AllLabs\obj\Debug\net6.0\AllLabs.pdb
+C:\Users\gigry\Documents\GitHub\MDK\AllLabsApp\AllLabs\obj\Debug\net6.0\AllLabs.genruntimeconfig.cache
+C:\Users\gigry\Documents\GitHub\MDK\AllLabsApp\AllLabs\obj\Debug\net6.0\ref\AllLabs.dll

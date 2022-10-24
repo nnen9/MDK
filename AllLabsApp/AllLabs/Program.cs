@@ -18,6 +18,7 @@ class Program
         labs.Add(new Lab3());
         labs.Add(new Lab4());
         labs.Add(new Lab5.Lab5());
+        labs.Add(new Lab6.Lab6());
 
         LabsInfo(labs);                 // выводим информацию о всех лабах
 

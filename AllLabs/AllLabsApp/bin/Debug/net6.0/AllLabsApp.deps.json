@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AllLabsApp/1.0.0": {
+        "dependencies": {
+          "LabsInterface": "1.0.0",
+          "LabsLib": "1.0.0"
+        },
+        "runtime": {
+          "AllLabsApp.dll": {}
+        }
+      },
+      "LabsInterface/1.0.0": {
+        "runtime": {
+          "LabsInterface.dll": {}
+        }
+      },
+      "LabsLib/1.0.0": {
+        "dependencies": {
+          "LabsInterface": "1.0.0"
+        },
+        "runtime": {
+          "LabsLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AllLabsApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LabsInterface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LabsLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

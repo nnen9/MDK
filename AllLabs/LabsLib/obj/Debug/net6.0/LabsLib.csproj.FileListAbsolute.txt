@@ -1,0 +1,15 @@
+C:\Users\gigry\Documents\GitHub\MDK\AllLabs\LabsLib\bin\Debug\net6.0\LabsLib.deps.json
+C:\Users\gigry\Documents\GitHub\MDK\AllLabs\LabsLib\bin\Debug\net6.0\LabsLib.dll
+C:\Users\gigry\Documents\GitHub\MDK\AllLabs\LabsLib\bin\Debug\net6.0\LabsLib.pdb
+C:\Users\gigry\Documents\GitHub\MDK\AllLabs\LabsLib\bin\Debug\net6.0\LabsInterface.dll
+C:\Users\gigry\Documents\GitHub\MDK\AllLabs\LabsLib\bin\Debug\net6.0\LabsInterface.pdb
+C:\Users\gigry\Documents\GitHub\MDK\AllLabs\LabsLib\obj\Debug\net6.0\LabsLib.csproj.AssemblyReference.cache
+C:\Users\gigry\Documents\GitHub\MDK\AllLabs\LabsLib\obj\Debug\net6.0\LabsLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gigry\Documents\GitHub\MDK\AllLabs\LabsLib\obj\Debug\net6.0\LabsLib.AssemblyInfoInputs.cache
+C:\Users\gigry\Documents\GitHub\MDK\AllLabs\LabsLib\obj\Debug\net6.0\LabsLib.AssemblyInfo.cs
+C:\Users\gigry\Documents\GitHub\MDK\AllLabs\LabsLib\obj\Debug\net6.0\LabsLib.csproj.CoreCompileInputs.cache
+C:\Users\gigry\Documents\GitHub\MDK\AllLabs\LabsLib\obj\Debug\net6.0\LabsLib.csproj.CopyComplete
+C:\Users\gigry\Documents\GitHub\MDK\AllLabs\LabsLib\obj\Debug\net6.0\LabsLib.dll
+C:\Users\gigry\Documents\GitHub\MDK\AllLabs\LabsLib\obj\Debug\net6.0\refint\LabsLib.dll
+C:\Users\gigry\Documents\GitHub\MDK\AllLabs\LabsLib\obj\Debug\net6.0\LabsLib.pdb
+C:\Users\gigry\Documents\GitHub\MDK\AllLabs\LabsLib\obj\Debug\net6.0\ref\LabsLib.dll

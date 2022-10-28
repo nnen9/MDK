@@ -13,7 +13,6 @@ namespace AllLabs.Lab7
             students = _students;
         }
         private static List<Student> _students = new List<Student>();
-
         public static void AddStudent()
         {
             _students.Add(new Student());
@@ -36,8 +35,6 @@ namespace AllLabs.Lab7
                 Console.WriteLine("Введите группу студента");
                 student.Group = Console.ReadLine();
             }
-
-
         }
         public static int StudentCount()
         {

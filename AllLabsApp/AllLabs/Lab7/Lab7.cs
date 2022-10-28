@@ -26,7 +26,6 @@ namespace AllLabs.Lab7
                 Console.WriteLine(students[i]);
 
             }
-
             var jsoneFormater = new DataContractJsonSerializer(typeof(string[]));
             using (var file = new FileStream("students.jsone", FileMode.OpenOrCreate))
             {
